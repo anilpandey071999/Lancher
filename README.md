@@ -1,16 +1,21 @@
-# lancher
+# Launcher 
 
-A new Flutter application.
+Lalauncher ncher is the app launcher build using flutter.
 
-## Getting Started
+## What it does?con
 
-This project is a starting point for a Flutter application.
+It reades the download and system apps in you phone. 
+This app is able to Display the list of the all the apps and Lanunches the apps.
+Displays the current wallpaper of the devise.
+It's shows the system time and batter
 
-A few resources to get you started if this is your first Flutter project:
+## Dependencies
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Dependencies are:-
+  cupertino_icons, launcher_assist,flutter_staggered_grid_view,permission_handler,device_apps,intl,battery,provider,device_info
+  
+  
+# Feel free to use it and contribute in this project.
+Hope you will find helpfull.
+Happy codeing.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
