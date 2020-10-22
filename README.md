@@ -2,7 +2,7 @@
 
 Lalauncher ncher is the app launcher build using flutter.
 
-## What it does?con
+## What it does?
 
 It reades the download and system apps in you phone. 
 This app is able to Display the list of the all the apps and Lanunches the apps.
